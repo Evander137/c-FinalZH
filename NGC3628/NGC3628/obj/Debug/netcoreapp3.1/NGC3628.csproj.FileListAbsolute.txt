@@ -1,0 +1,14 @@
+C:\Users\KHLS29\source\repos\NGC3628\NGC3628\bin\Debug\netcoreapp3.1\NGC3628.exe
+C:\Users\KHLS29\source\repos\NGC3628\NGC3628\bin\Debug\netcoreapp3.1\NGC3628.deps.json
+C:\Users\KHLS29\source\repos\NGC3628\NGC3628\bin\Debug\netcoreapp3.1\NGC3628.runtimeconfig.json
+C:\Users\KHLS29\source\repos\NGC3628\NGC3628\bin\Debug\netcoreapp3.1\NGC3628.runtimeconfig.dev.json
+C:\Users\KHLS29\source\repos\NGC3628\NGC3628\bin\Debug\netcoreapp3.1\NGC3628.dll
+C:\Users\KHLS29\source\repos\NGC3628\NGC3628\bin\Debug\netcoreapp3.1\NGC3628.pdb
+C:\Users\KHLS29\source\repos\NGC3628\NGC3628\obj\Debug\netcoreapp3.1\NGC3628.csproj.AssemblyReference.cache
+C:\Users\KHLS29\source\repos\NGC3628\NGC3628\obj\Debug\netcoreapp3.1\NGC3628.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHLS29\source\repos\NGC3628\NGC3628\obj\Debug\netcoreapp3.1\NGC3628.AssemblyInfoInputs.cache
+C:\Users\KHLS29\source\repos\NGC3628\NGC3628\obj\Debug\netcoreapp3.1\NGC3628.AssemblyInfo.cs
+C:\Users\KHLS29\source\repos\NGC3628\NGC3628\obj\Debug\netcoreapp3.1\NGC3628.csproj.CoreCompileInputs.cache
+C:\Users\KHLS29\source\repos\NGC3628\NGC3628\obj\Debug\netcoreapp3.1\NGC3628.dll
+C:\Users\KHLS29\source\repos\NGC3628\NGC3628\obj\Debug\netcoreapp3.1\NGC3628.pdb
+C:\Users\KHLS29\source\repos\NGC3628\NGC3628\obj\Debug\netcoreapp3.1\NGC3628.genruntimeconfig.cache
